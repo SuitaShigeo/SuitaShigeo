@@ -10,10 +10,21 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+## Organization Activities
+
+### AliveDesign-JP
+Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - Full-stack development and iOS applications
+
+**Key Projects:**
+- **[root-AD](https://github.com/AliveDesign-JP/root-AD)** - Large-scale full-stack application with Python, TypeScript & JavaScript
+- **[tmforce](https://github.com/AliveDesign-JP/tmforce)** - TypeScript web application
 
 ## GitHub Stats
 
@@ -24,6 +35,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuitaShigeo&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuitaShigeo&theme=tokyonight&hide_border=true)
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuitaShigeo&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
