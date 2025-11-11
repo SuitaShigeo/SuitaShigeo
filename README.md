@@ -22,9 +22,32 @@
 ### AliveDesign-JP
 Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - Full-stack development and iOS applications
 
+<div align="center">
+
+[![AliveDesign-JP](https://img.shields.io/badge/Organization-AliveDesign--JP-blue?style=for-the-badge&logo=github)](https://github.com/AliveDesign-JP)
+
+</div>
+
 **Key Projects:**
 - **[root-AD](https://github.com/AliveDesign-JP/root-AD)** - Large-scale full-stack application with Python, TypeScript & JavaScript
+  ![Stars](https://img.shields.io/github/stars/AliveDesign-JP/root-AD?style=social)
+  ![Languages](https://img.shields.io/github/languages/count/AliveDesign-JP/root-AD)
+
+- **[root_ios](https://github.com/AliveDesign-JP/root_ios)** - Swift-based iOS application
+  ![Stars](https://img.shields.io/github/stars/AliveDesign-JP/root_ios?style=social)
+  ![Swift](https://img.shields.io/badge/Swift-100%25-orange)
+
 - **[tmforce](https://github.com/AliveDesign-JP/tmforce)** - TypeScript web application
+  ![Stars](https://img.shields.io/github/stars/AliveDesign-JP/tmforce?style=social)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-77.6%25-blue)
+
+<div align="center">
+
+### Organization Contribution Stats
+
+![root-AD Stats](https://github-readme-stats.vercel.app/api/pin/?username=AliveDesign-JP&repo=root-AD&theme=tokyonight&hide_border=true)
+
+</div>
 
 ## GitHub Stats
 
