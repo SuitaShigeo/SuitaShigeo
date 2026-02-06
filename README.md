@@ -43,17 +43,6 @@ Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - 
 - **tmforce** - TypeScript web application
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## GitHub Stats
-
-<div align="center">
-
-![owl-tech-sui's GitHub stats](https://github-readme-stats.vercel.app/api?username=owl-tech-sui&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owl-tech-sui&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=owl-tech-sui&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## Contribution Activity
 
