@@ -54,6 +54,8 @@ Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - 
 
 ## Featured Projects
 
+> Most of my repositories are private. Below are some of my public projects.
+
 - **[ProcessEngine](https://github.com/owl-tech-sui/ProcessEngine)** - Full-stack application with Python & TypeScript
 - **[root-q](https://github.com/owl-tech-sui/root-q)** - Swift-based iOS application
 - **[ALT-ANALYSIS](https://github.com/owl-tech-sui/ALT-ANALYSIS)** - Advanced Python analysis tool
