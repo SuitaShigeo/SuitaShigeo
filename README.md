@@ -1,4 +1,4 @@
-# Hi there, I'm Suita
+# Hi there, I'm Suita! 👋
 
 ## Tech Stack
 
@@ -53,11 +53,11 @@ Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - 
 
 <div align="center">
 
-![SuitaShigeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuitaShigeo&show_icons=true&theme=tokyonight&hide_border=true)
+![owl-tech-sui's GitHub stats](https://github-readme-stats.vercel.app/api?username=owl-tech-sui&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuitaShigeo&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owl-tech-sui&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuitaShigeo&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owl-tech-sui&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -65,21 +65,21 @@ Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - 
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuitaShigeo&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=owl-tech-sui&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ## Featured Projects
 
-- **[ProcessEngine](https://github.com/SuitaShigeo/ProcessEngine)** - Full-stack application with Python & TypeScript
-- **[root-q](https://github.com/SuitaShigeo/root-q)** - Swift-based iOS application
-- **[ALT-ANALYSIS](https://github.com/SuitaShigeo/ALT-ANALYSIS)** - Advanced Python analysis tool
-- **[s-components](https://github.com/SuitaShigeo/s-components)** - TypeScript component library
+- **[ProcessEngine](https://github.com/owl-tech-sui/ProcessEngine)** - Full-stack application with Python & TypeScript
+- **[root-q](https://github.com/owl-tech-sui/root-q)** - Swift-based iOS application
+- **[ALT-ANALYSIS](https://github.com/owl-tech-sui/ALT-ANALYSIS)** - Advanced Python analysis tool
+- **[s-components](https://github.com/owl-tech-sui/s-components)** - TypeScript component library
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SuitaShigeo&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=owl-tech-sui&color=blue&style=for-the-badge)
 
 </div>
