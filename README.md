@@ -1,4 +1,4 @@
-# Hi there, I'm Suita! 👋
+# Hi there, I'm Owl! 👋
 
 ## Tech Stack
 
