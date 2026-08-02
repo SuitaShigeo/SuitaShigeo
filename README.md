@@ -48,7 +48,7 @@ Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - 
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=owl-tech-sui&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuitaShigeo&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -56,15 +56,15 @@ Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - 
 
 > Most of my repositories are private. Below are some of my public projects.
 
-- **[ProcessEngine](https://github.com/owl-tech-sui/ProcessEngine)** - Full-stack application with Python & TypeScript
-- **[root-q](https://github.com/owl-tech-sui/root-q)** - Swift-based iOS application
-- **[ALT-ANALYSIS](https://github.com/owl-tech-sui/ALT-ANALYSIS)** - Advanced Python analysis tool
-- **[s-components](https://github.com/owl-tech-sui/s-components)** - TypeScript component library
+- **[ProcessEngine](https://github.com/SuitaShigeo/ProcessEngine)** - Full-stack application with Python & TypeScript
+- **[root-q](https://github.com/SuitaShigeo/root-q)** - Swift-based iOS application
+- **[ALT-ANALYSIS](https://github.com/SuitaShigeo/ALT-ANALYSIS)** - Advanced Python analysis tool
+- **[s-components](https://github.com/SuitaShigeo/s-components)** - TypeScript component library
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=owl-tech-sui&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=SuitaShigeo&color=blue&style=for-the-badge)
 
 </div>
