@@ -22,7 +22,7 @@
 
 ### AliveDesign-JP
 
-Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - Full-stack development and iOS applications
+Active contributor to [AliveDesign-JP](https://github.com/AliveDesign-JP) - Full-stack development and iOS applications
 
 <div align="center">
 
@@ -30,36 +30,13 @@ Active contributor to **[AliveDesign-JP](https://github.com/AliveDesign-JP)** - 
 
 </div>
 
-**Key Projects:**
-
-- **root-AD** - Large-scale full-stack application with Python, TypeScript & JavaScript
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-- **root_ios** - Swift-based iOS application
-  ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-
-- **tmforce** - TypeScript web application
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-
-## Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuitaShigeo&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
 ## Featured Projects
 
 > Most of my repositories are private. Below are some of my public projects.
 
-- **[ProcessEngine](https://github.com/SuitaShigeo/ProcessEngine)** - Full-stack application with Python & TypeScript
-- **[root-q](https://github.com/SuitaShigeo/root-q)** - Swift-based iOS application
-- **[ALT-ANALYSIS](https://github.com/SuitaShigeo/ALT-ANALYSIS)** - Advanced Python analysis tool
-- **[s-components](https://github.com/SuitaShigeo/s-components)** - TypeScript component library
+- [parlane](https://github.com/SuitaShigeo/parlane) - Dead-simple parallel map / filter / for-each for Python, published on [PyPI](https://pypi.org/project/parlane/)
+- [pyast-check](https://github.com/SuitaShigeo/pyast-check) - Python AST toolkit for refactor verification, breaking-change detection and export auditing
+- [mermaid-video](https://github.com/SuitaShigeo/mermaid-video) - Convert Mermaid diagrams to animated videos using Remotion
 
 ---
 
